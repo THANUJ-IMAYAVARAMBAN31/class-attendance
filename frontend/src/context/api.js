@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:5000';
+const BASE_URL = 'https://class-attendance-onbh.onrender.com';
 
 const apiRequest = async (
   url,
