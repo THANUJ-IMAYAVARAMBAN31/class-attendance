@@ -4,6 +4,7 @@ const cors = require('cors');
 const connectDB = require('./config/db');
 
 const app = express();
+
 const allowedOrigins = [
   'http://localhost:5173',
   'https://class-attendance-ten.vercel.app'
