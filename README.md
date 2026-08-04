@@ -3,7 +3,9 @@
 A full-stack MERN application for managing student attendance using QR code scanning and role-based access control.
 
 The system is designed for educational institutions to simplify attendance tracking through secure authentication, QR-based attendance marking, and department-wise class management.
-
+---
+Live @ [[https://class-attendance-ten.vercel.app/]]
+---
 ## Features
 
 ### Authentication & Security
